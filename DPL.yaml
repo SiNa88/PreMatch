@@ -1,0 +1,12 @@
+vm-exo-med:
+- inference
+- package2
+jetson:
+- inference
+- package2
+rpi4:
+- inference
+- package2
+rpi3:
+- inference
+- package2
